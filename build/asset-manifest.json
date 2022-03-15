@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/supermarket/static/css/main.a343e88b.chunk.css",
+    "main.js": "/supermarket/static/js/main.6ecdf58c.chunk.js",
+    "main.js.map": "/supermarket/static/js/main.6ecdf58c.chunk.js.map",
+    "runtime-main.js": "/supermarket/static/js/runtime-main.25701641.js",
+    "runtime-main.js.map": "/supermarket/static/js/runtime-main.25701641.js.map",
+    "static/js/2.480a70d9.chunk.js": "/supermarket/static/js/2.480a70d9.chunk.js",
+    "static/js/2.480a70d9.chunk.js.map": "/supermarket/static/js/2.480a70d9.chunk.js.map",
+    "index.html": "/supermarket/index.html",
+    "static/css/main.a343e88b.chunk.css.map": "/supermarket/static/css/main.a343e88b.chunk.css.map",
+    "static/js/2.480a70d9.chunk.js.LICENSE.txt": "/supermarket/static/js/2.480a70d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25701641.js",
+    "static/js/2.480a70d9.chunk.js",
+    "static/css/main.a343e88b.chunk.css",
+    "static/js/main.6ecdf58c.chunk.js"
+  ]
+}
